@@ -37,3 +37,7 @@ function hi() {
 
 ##lazyheader2
 
+A paragraph of text
+# interrupting heading
+paragraph continues
+and keeps continuing
