@@ -26,3 +26,9 @@ a ![gravatar](http://host.gravatar.com) image
   ## head2
 
    ### head3
+
+```js
+function hi() {
+  console.log('hi')
+}
+```
